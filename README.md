@@ -8,7 +8,7 @@ Essa apostila contém anotações do meu estudo sobre Segurança Web e pode serv
 
 ## Índice ##
 
-- [Introdução](./0.0-intro.md)
+- [Introdução](./0.1-intro.md)
 - [Fundamentos](./1.1-fundamentos.md)
   - [URL](./1.2-url.md)
   - [HTTP](./1.3-http.md)
